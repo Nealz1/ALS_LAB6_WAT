@@ -3,7 +3,6 @@
 // Zadanie 6.1
 // Drzewo BST
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
