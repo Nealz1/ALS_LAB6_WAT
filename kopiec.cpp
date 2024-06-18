@@ -3,7 +3,6 @@
 // Zadanie 6.2
 // Kopiec
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdlib.h>
